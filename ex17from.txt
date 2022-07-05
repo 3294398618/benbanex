@@ -1,0 +1,2 @@
+print(how many times i will rmber you.)
+input(how many years)

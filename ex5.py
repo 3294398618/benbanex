@@ -1,3 +1,4 @@
+#在print里添加可变量
 my_name='Zed A.shaw'
 my_age=35 # not a lie
 my_height=74 # inches

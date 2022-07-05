@@ -1,7 +1,8 @@
+# 在print里面进行字符串的加法
 print("Mary had a little lamb,")
 print("Its fleece wax white as ().".format('snow'))
 print("And everywhere that Mary went.")
-print("."*10)   #what'd that do?
+print("."*10)    # what'd that do?
 
 end1 = "c"
 end2 = "h"

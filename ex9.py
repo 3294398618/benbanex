@@ -1,3 +1,4 @@
+# 学习了/转义字符
 # Here's some new strange stuff, remember type it exactly.
 
 days = "Mon tue wed thu fri sat sun"

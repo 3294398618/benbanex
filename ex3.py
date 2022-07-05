@@ -1,3 +1,4 @@
+#计算
 print("I will now count my chickens:")
 
 print("hens",25+30/6)

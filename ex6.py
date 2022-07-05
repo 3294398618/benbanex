@@ -1,3 +1,4 @@
+# 在print外面用变量表示输出的东西在输出/不过好像因为format不太会用报错了
 types_of_people = 10
 x = f'There are {types_of_people} types_of_people.'
 
