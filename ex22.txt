@@ -1,0 +1,25 @@
+本次要写下学会的语句
+ex01...    print（）——————输出（）里的东西  例题1 print("Hello world")
+ex02...    # 学习了print    # 号后面要打空格
+ex03...    在print里面可以计算，计算符号见地图
+ex04...    在print里添加变量，在外面可以改变输出内容  print("There will be",变量 cars_not_drivers, "empty cars today")
+ex05...    print(f"He's 变量{my_height} inches tall.")
+ex06...    bug
+ex07...    可在print里面加减字符串print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')end分别表示不同的字符，最后的end= ’ ‘表示取消换行
+ex08...    formatter = "{} {} {} {}" # 这里有几个空格就要在下面提供几个变量  print(formatter.format(1, 2, 3, 4))
+ex09...    学习了/转义字符
+ex10...    同ex09
+ex11...    input的运用  height = input()  # 括号没打    要求用户输入并且赋值给height
+ex12...    input后面的括号里面的字符会在要求输入的时候做为提示 age = input("how old are you?")
+ex13...    # 调用函数/sys可在程序开始的时候请求写入数据   from sys import argv
+           script, first, second, third = argv    # 逗号后面要空格  #前面4个 第1个表示项目名称 后三个为新建变量需要开始程序时提供常数的    可改变变量数量
+ex14...    # input的提示语可以用变量表示/方便统一修改
+ex15...    打开文件  自定义名称 = open(filename)     print（自定义名称.read（））——————把打开的文件读取后输出
+ex16...    # 文件的写入/写入了三行txt文本并关闭了文件   target.write(line1)——————将line1写入target打开的文件
+ex17...    将文件1内的内容复制到文件2 2原本的内容会清除    read和write的共同作用
+ex18...    def后接函数名称 定义函数
+ex19...    def后的名称可带参数名称，引入数据
+ex20...    文件操作前面要加打开文件的操作   readline()——————读取一行并将指针移至下一行下次读取自动读取下一行
+           文件操作seek                 seek（0）————————改变指针到0处————即到开头
+
+ex21...    def自定义的函数在末尾可加return 返回函数计数值return后不接括号

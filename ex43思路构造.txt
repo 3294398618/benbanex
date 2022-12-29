@@ -1,0 +1,24 @@
+* Map                          地图
+动作
+-next_scene
+-opening_scene
+* Engine                       引擎
+* Scene                        场景
+  * enter
+  * Death                          死亡
+  * Central Corridor               中央走廊
+  * Laser Weapon Armory            武器库
+  * The BRIDGE                     控制室
+  * Escape Pod                     逃离处
+
+   scene 场景
+   Engine 引擎
+   Death 死亡
+   CentralCorridor  中央走廊
+   LaserWeaponArmory 激光武器库
+   TheBridge 桥
+   EscapePod 逃生舱
+   Finished 完成的
+
+
+# 我服了你个老6明明后面才讲类的继承和组合，早不说，差点劝退
